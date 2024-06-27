@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hush Line</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="landing_register_instr">Don't have an account?</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="logo">Logo</string>
+    <string name="register_here">Register <u>here</u></string>
+    <string name="register">Register</string>
+    <string name="login_here">Login <u>here</u></string>
+    <string name="landing_login_instr">Already have an account?</string>
+    <string name="inbox_tab_title">Inbox</string>
+    <string name="new_message_tab_title">New Message</string>
+    <string name="settings_tab_title">Settings</string>
+    <string name="internet_connection_unavailable">Internet unavailable. Please turn on data.</string>
+    <string name="login_failed_format">Login failed: %1$s</string>
+    <string name="login_failed">Login failed: </string>
+    <string name="reset_here">Reset here</string>
+    <string name="reset">Reset</string>
+    <string name="forgot_password_instr">Forgot password?</string>
+    <string name="email_address">Email Address</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_instr">Enter your email address to get a link to reset your password</string>
+    <string name="nothing_to_see_here">Nothing to see here...</string>
+    <string name="no_messages_yet">No messages yet.</string>
+    <string name="empty_login_details">Enter username and password</string>
+    <string name="request_failed_format">Request failed: %1$s</string>
+    <string name="request_failed">Request failed: </string>
+    <string name="invalid_email">Email address is invalid</string>
+    <string name="register_failed_format">Registration failed: %1$s</string>
+    <string name="register_failed">Registration failed: </string>
+    <string name="donate">❤️ Donate</string>
+</resources>
